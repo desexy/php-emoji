@@ -9,6 +9,12 @@
  * @author Yin(gzsgcs@gmail.com)
  * @date 2014/12/09 3:27:02
  * @remark 截止iOS 8,共有845个Emoji表情(there are 845 emojis in iOS 8 and OS X)
+ * 
+ * @update author Desexy(ci__ke@sina.com)
+ * @date 2016/08/08 09:27:02
+ * @remark 截止iOS 9
+ * 主要增加两个正则匹配：[\x{1F000}-\x{1F9FF}][\x{FE00}-\x{FEFF}]?|[\x{1F000}-\x{1F9FF}][\x{1F000}-\x{1FEFF}]
+ * 
  **/
 
 class Emoji

@@ -1,8 +1,10 @@
-php-emoji
+php-emoji  ios9
 =========
+现在支持ios9 新表情  自己测了下没问题，如果发现问题 请多指教
+Simple PHP libiary to convert Emoji(iOS 6,7,8,9,OS X) to unicode
 
-Simple PHP libiary to convert Emoji(iOS 6,7,8,OS X) to unicode
-
+Now support ios9 new emoji 
+ 
 >usage
 
 ``` php
